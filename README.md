@@ -1,6 +1,16 @@
-operators
-=========
+Questions
 
+Consider the following code snippet.
+arrayOfInts[j] > arrayOfInts[j+1]
+Which operators does the code contain?
+Consider the following code snippet.
+int i = 10;
+int n = i++%5;
+What are the values of i and n after the code is executed?
+What are the final values of i and n if instead of using the postfix increment operator (i++), you use the prefix version (++i))?
+To invert the value of a boolean, which operator would you use?
+Which operator is used to compare two values, = or == ?
+Explain the following code sample: result = someCondition ? value1 : value2;
 Exercises
 
 Change the following program to use compound assignments:
